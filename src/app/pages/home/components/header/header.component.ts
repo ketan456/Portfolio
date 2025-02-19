@@ -39,7 +39,7 @@ import { User } from 'src/app/models/user.interface';
           </h1>
         </div>
         <h2 class="text-lg text-cyan-500 md:text-xl">
-          {{ 'Angular web developer and Team Leader' }}
+          {{ 'Angular web developer' }}
         </h2>
         <p class="text-sm font-semibold text-neutral-400 md:text-base">
           Angular developer with 3 years of experience in building responsive
