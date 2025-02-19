@@ -23,7 +23,7 @@ import { User } from 'src/app/models/user.interface';
   template: `
     <section class="flex flex-col justify-between gap-5">
       <img
-        src="assets/profile.jpg"
+        src="https://github.com/ketan456/Portfolio/blob/main/docs/assets/profile.jpg"
         alt="Uriel Spiridione profile image"
         width="150"
         height="150"
